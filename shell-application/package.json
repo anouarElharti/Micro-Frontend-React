@@ -1,0 +1,27 @@
+{
+  "name": "shell",
+  "version": "1.0.0",
+  "description": "Shell Front-end application to work with micro-services frontend using react and module federation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anouarElharti/Micro-Frontend-React.git"
+  },
+  "keywords": [
+    "Micro-services",
+    "Frontend",
+    "Micro-Frontend",
+    "React",
+    "module",
+    "federation"
+  ],
+  "author": "Anouar EL HARTI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anouarElharti/Micro-Frontend-React/issues"
+  },
+  "homepage": "https://github.com/anouarElharti/Micro-Frontend-React#readme"
+}
